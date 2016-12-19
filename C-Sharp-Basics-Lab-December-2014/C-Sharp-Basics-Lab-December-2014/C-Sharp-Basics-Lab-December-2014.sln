@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountBeers", "CountBeers\CountBeers.csproj", "{5199CB25-63ED-473E-921A-15DA2D0CD3B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunMatrices", "FunMatrices\FunMatrices.csproj", "{3C0EE1FD-39B5-40A6-A8CD-29BFA8D8495D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteParty", "ByteParty\ByteParty.csproj", "{AD220973-84CC-4843-8354-6BB2DBC40C8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris.csproj", "{A51ACD9B-ADFB-4C28-811B-328DE3C72097}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5199CB25-63ED-473E-921A-15DA2D0CD3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5199CB25-63ED-473E-921A-15DA2D0CD3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5199CB25-63ED-473E-921A-15DA2D0CD3B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5199CB25-63ED-473E-921A-15DA2D0CD3B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C0EE1FD-39B5-40A6-A8CD-29BFA8D8495D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C0EE1FD-39B5-40A6-A8CD-29BFA8D8495D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C0EE1FD-39B5-40A6-A8CD-29BFA8D8495D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C0EE1FD-39B5-40A6-A8CD-29BFA8D8495D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD220973-84CC-4843-8354-6BB2DBC40C8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD220973-84CC-4843-8354-6BB2DBC40C8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD220973-84CC-4843-8354-6BB2DBC40C8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD220973-84CC-4843-8354-6BB2DBC40C8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A51ACD9B-ADFB-4C28-811B-328DE3C72097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51ACD9B-ADFB-4C28-811B-328DE3C72097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51ACD9B-ADFB-4C28-811B-328DE3C72097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51ACD9B-ADFB-4C28-811B-328DE3C72097}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
